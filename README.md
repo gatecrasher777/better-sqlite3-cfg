@@ -1,5 +1,7 @@
 # better-sqlite3 [![Build Status](https://github.com/JoshuaWise/better-sqlite3/actions/workflows/build.yml/badge.svg)](https://github.com/JoshuaWise/better-sqlite3/actions/workflows/build.yml?query=branch%3Amaster)
 
+*** The aim of this fork is to find a way to configure sqlite3 via better-sqlite3 that does not require rebuilding. *** 
+
 The fastest and simplest library for SQLite3 in Node.js.
 
 - Full transaction support
